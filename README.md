@@ -1,4 +1,4 @@
-# fraudDetection
+# Bank fraud detection
 
 This project utilizes difference deep-learning algorithms to detect fraud operations on banking systems ( classification problem )
 
